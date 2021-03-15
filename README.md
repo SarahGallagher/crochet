@@ -1,45 +1,28 @@
-<!-- 
-notes
-    - gauge (start with the hook size recommended by pattern, or yarn label)
-    * when gauge matters most
-materials/what you need to start a project
-    - hook
-    - yarn 
-    - optional (stitch markers, yarn bowl, etc)
-personal preferences (pencil vs knife grip, yarn material, page flip rotation)
-hooks
-yarns
-basic stitches
-"frogging"/mistakes in work
-projects
-    blankets - sizes
- -->
-
 # Crochet 
 
 ## What is crochet?
 Similar to knitting, crochet is a method of "stitching" or "weaving" yarn to create a textile piece. 
 
-Compared to knitting, crocheted items can be more "bulky", and may use more yarn than similar knitted pieces. The big benefit of crochet is that you use one hook and work one stitch at a time. Because you don't carry your stitches on a needle like knitting, and because crochet hooks are typically smaller than knitting needles, it becomes very easy to travel with your work in progress without worrying about stitches being dropped. 
+The benefit of crochet is that you use one hook and work one stitch at a time. Because you don't carry your stitches on a needle like knitting, and because crochet hooks are quite short, it becomes very easy to travel with your work-in-progress without much worry about your stitches being dropped or pulled out. 
+
+There are different types of crochet - traditional crochet uses the standard crochet hook (a "stick" with a "hook" at the end). You should start with traditional crochet before you move on to more advanced crochet pieces and techniques. 
 
 
 ## Getting Started
 When you begin, you'll need two items: yarn, and a crochet hook.
 
-Yarn comes in different weights, sizes, and materials, each with their own advantages and disadvantages. Acrylic yarn can be a great choice for beginners: it tends to be cheaper than other materials like wool or cotton, and it's typically very durable when reused in different projects. It's usually machine washable as well.
+Yarn comes in different weights, sizes, and content, each with their own advantages and disadvantages. Acrylic yarn can be a great choice for beginners: it tends to be cheaper than other materials like wool or cotton, and it's typically very durable when reused in different projects. It's usually machine washable as well.
 
-More information on yarn. <!-- todo --> 
+Likewise, crochet hooks come in a variety of sizes and materials. Most beginner and cheaper hooks are made with aluminum or plastic. Aluminum tends to be a better choice as it's more "slippery" than plastic. Hooks will vary in price and quality. 
 
-Crochet hooks come in a variety of sizes and materials. Most beginner and cheaper hooks are made with aluminum or plastic. Aluminum tends to be a better choice as it's more "slippery" than plastic. Hooks will vary in price and quality. 
-
-More information on hooks. <!-- todo -->
 
 ## Yarn weight
 The weight of your yarn refers to the size or thickness of your yarn, not how much it weighs.
 
-It's important to note that yarn weight will vary between different yarns styles and yarn brands. What one brand would call a "worsted" weight, another brand would call a "DK" weight. 
+It's important to note that yarn weight will vary between different yarns styles and yarn brands. What one brand would define their yarn weight as, another brand would define it a different weight. 
 
-While it's very common to use a different yarn than the pattern actually calls for, if you're planning to substitute, you should check your gauge before you begin the pattern. 
+It's very common to use a different yarn than the pattern actually calls for. If you're planning to substitute yarns, you should check your gauge before you begin the pattern. 
+
 
 ## Gauge
 Gauge is a measurement, or "scale", of your crocheted stitches. Gauge is unique to each person. Your yarn weight, how you hold your yarn and your hook, as well as how "loose" or "tight" you crochet, will affect your gauge (or, the overall size of your project). 
